@@ -14,13 +14,13 @@ main {
   width: 100%;
   margin: 50px auto;
   display: flex;
-  flex-wrap: wrap;
+  /*flex-wrap: wrap;*/
   justify-content: center;
 }
 
 .step-box {
   width: 90%;
-  max-width: 400px;
+  max-width: 300px;
   margin: 10px;
   padding: 30px;
   background-color: #eee;
